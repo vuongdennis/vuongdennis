@@ -14,7 +14,7 @@ I'm an undergraduate student at University of California, Riverside majoring in 
 - Mobile Development
 
 ### Connect with me on LinkedIn
-<img height="32" width="32" href="https://www.linkedin.com/in/dennis-vuong/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/dennis-vuong/)
 
 <!--
 **vuongdennis/vuongdennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
