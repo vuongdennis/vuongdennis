@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis. 👋
 
-I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications.
+I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications. I'm actively searching for a Software Engineering Internship to improve my skill sets. I'd love to connect.
 
 ### Projects
 - [Blocking UnProductivity](https://github.com/vuongdennis/blocking_unproductivity)
@@ -9,9 +9,9 @@ I'm an undergraduate student at University of California, Riverside majoring in 
 - [Quiz](https://github.com/vuongdennis/quiz_app)
 - [FastFood Order](https://github.com/vuongdennis/fast_food_self_service)
 
-### 🔭 I’m currently focusing on
-- Mastering Data Structures and Algorithms
-- Mobile Development
+### 🔭 I’m currently focusing/interested in
+- Improving on Data Structures and Algorithms 
+- Cryptocurrency and BlockChain
 
 ### Connect with me on LinkedIn
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/dennis-vuong/)
