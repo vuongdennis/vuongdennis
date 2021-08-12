@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis. 👋
 
-I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications. I'm searching for a Software Engineering Internship to improve my skill sets. I'd love to connect.
+I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications. I'm searching for a full time Software Engineering position. I'd love to connect.
 
 ### Projects
 - [Blocking UnProductivity](https://github.com/vuongdennis/blocking_unproductivity)
