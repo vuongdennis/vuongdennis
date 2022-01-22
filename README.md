@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis. 👋
 
-I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications. I was previous a Software Engineering Intern at Thomson Reuters. I'm currently looking for a full time software engineering position. Lets Connect!
+I'm an undergraduate student at University of California, Riverside majoring in Computer Science with Business Applications. I was previously a software engineer intern at Thomson Reuters. I'm currently looking for a full time software engineering position. Lets Connect!
 
 ### Projects
 - [Django REST API](https://github.com/vuongdennis/parking-lot)
